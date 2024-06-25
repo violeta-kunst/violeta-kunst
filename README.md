@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @violeta-kunst
+- 👀 I’m interested in Art, Programming, Cinema and Books.
+- 🌱 I’m currently learning Full-Stack Web Developer. 
+- 💞️ I’m looking to collaborate on new projects in a good company to improve myself and learn more about Programming
+- 📫 How to reach me: I'm in LinkedIn: Violeta Morales Martínez, and my e-mail: mmvioleta.kunst@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I studied Fine Arts and Graphic Designer, but now I want to explore the world of Programming, my next step will be learning about Python. 
